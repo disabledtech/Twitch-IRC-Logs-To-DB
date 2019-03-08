@@ -1,4 +1,4 @@
-<a href="http://g.recordit.co/tjl5YvR0xI.gif"><img align="center" src="http://g.recordit.co/tjl5YvR0xI.gif"></a>
+<div align="center"><a href="http://g.recordit.co/tjl5YvR0xI.gif"><img src="http://g.recordit.co/tjl5YvR0xI.gif"></a></div>
 <h1 align="center">Twitch IRC Logs-to-Database</h1>
 
 <div align="center">
